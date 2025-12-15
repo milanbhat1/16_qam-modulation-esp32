@@ -127,12 +127,12 @@ The block diagram illustrates the conceptual flow of data from binary input thro
 ### Transmitter Output
 Shows bit collection, symbol mapping, and packet transmission logs.
 
-![TX Serial Output](images/tx_serial_output.png)
+![TX Serial Output](images/tx_serial_output.jpg)
 
 ### Receiver Output
 Shows received symbols, quantization, bit reconstruction, and decoded data.
 
-![RX Serial Output](images/rx_serial_output.png)
+![RX Serial Output](images/rx_serial_output.jpg)
 
 
 ## Results and Observations
