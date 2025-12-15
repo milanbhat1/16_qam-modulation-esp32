@@ -109,7 +109,7 @@ Amplitude levels used:
 
 The following image shows the physical implementation of the transmitter and receiver ESP32 modules used for the QAM communication system.
 
-![Hardware Setup](images/hardware_setup.jpg)
+![Hardware Setup](images/hardware_setup.jpg) | ![Arduino IDE](images/hardware_setup1.jpg)
 
 
 ---
